@@ -5,3 +5,7 @@ Olá a todos
 Continuando...
 
 Money, ainda não foi hoje.
+
+Linha 4, aprendendo sobre git e como funciona.
+
+Mais uma linha
