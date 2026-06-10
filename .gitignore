@@ -1,0 +1,9 @@
+# Ignorar arquivos com extensão tmp
+*.tmp
+
+# Ignorar contéudo da pasta imagens
+imagens/
+
+# Ignorar o arquivo temp.txt
+temp.txt
+
